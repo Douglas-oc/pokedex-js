@@ -13,3 +13,4 @@ Fique a vontade para testar e opinar sobre! [Pokédex](https://douglas-oc.github
 ### Créditos 
 
 Este jogo foi desenvolvido como parte de um projeto educacional da Digital Innovation One. Repositório base: https://github.com/digitalinnovationone/js-developer-pokedex
+- PokeAPI: https://pokeapi.co/
